@@ -1,0 +1,3 @@
+systemctl status sshd
+→sshdのステータスを確認
+→Activeをinactiveにしたり起動時の自動起動を変更できる
